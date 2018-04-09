@@ -8,5 +8,10 @@
             "email": "hnrdiaz@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "IntelGUA\\": "src\\"
+        }
+    },
     "require": {}
 }
