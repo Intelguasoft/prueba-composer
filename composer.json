@@ -1,0 +1,12 @@
+{
+    "name": "intelguasoft/prueba-composer",
+    "description": "Es una prueba de concepto de composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Henry Diaz",
+            "email": "hnrdiaz@gmail.com"
+        }
+    ],
+    "require": {}
+}
