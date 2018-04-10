@@ -13,5 +13,7 @@
             "IntelGUA\\": "src\\"
         }
     },
-    "require": {}
+    "require": {
+        "phpunit/php-timer": "^2.0"
+    }
 }
